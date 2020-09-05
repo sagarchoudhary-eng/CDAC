@@ -1,3 +1,4 @@
 # CDAC
-Beginning CDAC
-Contains Programs 
+Core JAVA 
+PROGRAMS for beginners
+
